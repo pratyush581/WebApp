@@ -1,7 +1,0 @@
-0:0:0:0:0:0:0:1 - - [05/Jun/2018:16:39:58 +0530] "GET /springrest/challenges/CARDIO?partialName=run HTTP/1.1" 200 269 http-bio-8080-exec-1 3263
-0:0:0:0:0:0:0:1 - - [05/Jun/2018:16:40:21 +0530] "GET /springrest/challenges/CARDIO?partialName=run HTTP/1.1" 200 269 http-bio-8080-exec-2 15
-0:0:0:0:0:0:0:1 - - [05/Jun/2018:16:41:53 +0530] "GET /springrest/challenges/CARDIO/filter?difficulty=INTERMEDIATE HTTP/1.1" 200 269 http-bio-8080-exec-4 6
-0:0:0:0:0:0:0:1 - - [05/Jun/2018:16:42:08 +0530] "GET /springrest/challenges/CARDIO/filter?difficulty=BEGINNER HTTP/1.1" 200 12 http-bio-8080-exec-5 6
-0:0:0:0:0:0:0:1 - - [05/Jun/2018:16:42:34 +0530] "GET /springrest/challenges/CARDIO/filter?difficulty=BEGINNER HTTP/1.1" 200 12 http-bio-8080-exec-6 4
-0:0:0:0:0:0:0:1 - - [05/Jun/2018:16:42:59 +0530] "GET /springrest/challenges/CARDIO/filter?difficulty=BEGINNER HTTP/1.1" 200 12 http-bio-8080-exec-7 6
-0:0:0:0:0:0:0:1 - - [05/Jun/2018:16:43:16 +0530] "GET /springrest/challenges/MUSCLE/filter?difficulty=BEGINNER HTTP/1.1" 200 252 http-bio-8080-exec-8 5
